@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="0:Eclipse-based"/>
+	<ccsVersion value="12.8.0"/>
+	<deviceVariant value="com.ti.ccstudio.deviceModel.C2000.GenericC28xxDevice"/>
+	<deviceFamily value="C2000"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="22.6.1.LTS"/>
+	<isElfFormat value="false"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=is09_flying_start_coff.projectspec.is09_flying_start_coff"/>
+	<sourceLookupPath value="${C2000WARE_DLIB_ROOT}"/>
+	<origin value="C:\ti\c2000\C2000Ware_MotorControl_SDK_5_02_00_00\solutions\boostxl_drv8320rs\f28004x\ccs\sensorless_foc\is09_flying_start_coff.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
